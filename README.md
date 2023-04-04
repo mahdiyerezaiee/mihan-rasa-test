@@ -14,9 +14,9 @@ in this test I benefit from
 - Bootstrap
 
 ## Features:
-# WebSocket:
+### WebSocket:
 - Simple application for trading and digital currency
-# Todo:
+### Todo:
 - Simple application to divide work and perform tasks
 
 
