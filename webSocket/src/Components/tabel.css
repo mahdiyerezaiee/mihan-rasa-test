@@ -1,0 +1,43 @@
+/* Css */
+
+body{
+    background: #212630;
+
+}
+
+.main-grid-item{
+    width: 80%;
+    margin: 0 auto;
+    background: #131b1e;
+}
+
+.item-list:hover{
+    background: #29303d;
+}
+
+.item-list{
+    padding: 2rem;
+
+
+
+color: white;
+}
+
+.text-clip{
+    float: right;
+text-align: right;
+}
+.color-red{
+    color: red;
+}
+.color-green{
+    color: green;
+}
+.text-small{
+    font-size: smaller;
+}
+.loading{
+    width: fit-content;
+    margin: 23% auto ;
+    color: white;
+}
